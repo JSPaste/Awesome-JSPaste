@@ -11,6 +11,9 @@ Collection of JSPaste libraries, clients and other cool stuff.
 ### Rust
 - [RSPaste](https://github.com/aidakdev/rspaste) - Simple, fast and fully-typed JSPaste API wrapper for Rust
 
+### Dart
+- [jspaste.dart](https://github.com/nulkode/jspaste.dart) - A Dart library to interact with JSPaste API.
+
 ## Clients
 - [JSP-Frontend](https://github.com/JSPaste/JSP-Frontend) - The official frontend used for [jspaste.eu](https://jspaste.eu/)
 
