@@ -14,7 +14,7 @@ Collection of JSPaste libraries, clients and other cool stuff.
 - [⭐ Library](https://github.com/jspaste/library) - The official headless client to interact with JSPaste API
 
 ### C#
-- [JSPaste.Net](https://github.com/Mrgaton/JSPaste.Net) - Library to interact with JSPaste API (C#)
+- [JSPaste.Net](https://github.com/mrgaton/jspaste.net) - Library to interact with JSPaste API (C#)
 
 ### Rust
 - [RSPaste](https://github.com/aidakdev/rspaste) - Simple, fast and fully-typed JSPaste API wrapper for Rust
@@ -23,4 +23,4 @@ Collection of JSPaste libraries, clients and other cool stuff.
 - [jspaste.dart](https://github.com/nulkode/jspaste.dart) - A Dart library to interact with JSPaste API
 
 ## Adding your own API Library / Web Client
-- Please open an [Issue](https://github.com/JSPaste/Awesome-JSPaste/issues/new) with the link of your work
+- Please open an [Issue](https://github.com/jspaste/awesome-jspaste/issues/new) with the link of your work
