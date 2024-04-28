@@ -1,13 +1,18 @@
 # Awesome-JSPaste
-Collection of JSPaste libraries, clients and other cool stuff.
+Collection of JSPaste libraries, clients and other cool stuff ✨
 
-## Web Clients
-- [⭐ Frontend](https://github.com/jspaste/frontend) - The official frontend used for [jspaste.eu](https://jspaste.eu)
+## Want to join us?
+- Open an [Issue](https://github.com/jspaste/awesome-jspaste/issues/new) requesting to add your Instance / API Library to this page.
 
-## APIs
-- [⭐ Backend](https://github.com/jspaste/backend) - The official backend used for [jspaste.eu](https://jspaste.eu)
+## Instances
+- [⭐ jspaste.eu](https://jspaste.eu) - The official JSPaste instance
+- [paste.inetol.net](https://paste.inetol.net) - Instance managed by Inetol Infrastructure
 
-- [INetAPI-JSP](https://api.inetol.net/jspaste) - Backend instance managed by Inetol Infrastructure
+## Frontend
+- [⭐ Frontend](https://github.com/jspaste/frontend) - The official frontend used in [jspaste.eu](https://jspaste.eu)
+
+## Backend
+- [⭐ Backend](https://github.com/jspaste/backend) - The official backend used in [jspaste.eu](https://jspaste.eu)
 
 ## API Libraries
 ### JavaScript / TypeScript
@@ -21,6 +26,3 @@ Collection of JSPaste libraries, clients and other cool stuff.
 
 ### Dart
 - [jspaste.dart](https://github.com/nulkode/jspaste.dart) - A Dart library to interact with JSPaste API
-
-## Adding your own API Library / Web Client
-- Please open an [Issue](https://github.com/jspaste/awesome-jspaste/issues/new) with the link of your work
