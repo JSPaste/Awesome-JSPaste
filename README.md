@@ -7,6 +7,7 @@ Collection of JSPaste libraries, clients and other cool stuff ✨
 ## Instances
 - [⭐ jspaste.eu](https://jspaste.eu) - The official JSPaste instance
 - [paste.inetol.net](https://paste.inetol.net) - Instance managed by Inetol Infrastructure
+  - *(Note: document storage is ephemeral until further notice)*
 - [archive.tnfangel.com/jspaste](https://archive.tnfangel.com/jspaste) - The old JSPaste website managed by tnfAngel Archive
 
 ## Frontend
