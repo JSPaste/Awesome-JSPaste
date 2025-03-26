@@ -7,12 +7,10 @@ Collection of instances and libraries ✨
 ## Frontend
 - [❗ jspaste.pages.dev](https://jspaste.pages.dev) (development) - Development preview managed by Cloudflare
 - [⭐ jspaste.eu](https://jspaste.eu) (stable) - Managed by Inetol Infrastructure
-- [paste.inet.cat](https://paste.inet.cat) (stable) - Managed by Inetol Infrastructure
 - [archive.tnfangel.com/jspaste](https://archive.tnfangel.com/jspaste) (legacy) - Managed by tnfAngel Archive
 
 ## Backend instances
 - [⭐ jspaste.eu](https://jspaste.eu) - Managed by Inetol Infrastructure
-- [paste.inet.cat](https://paste.inet.cat) - Managed by Inetol Infrastructure
 
 ## API Libraries
 - [⭐ Library](https://github.com/jspaste/library) - (JavaScript) The official headless client to interact with JSPaste API
